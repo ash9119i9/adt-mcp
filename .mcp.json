@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sap-adt": {
+      "command": "node",
+      "args": ["/Users/ashok/sap-adt-mcp/index.js"]
+    }
+  }
+}
